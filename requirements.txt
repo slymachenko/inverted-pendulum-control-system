@@ -1,0 +1,8 @@
+gymnasium[mujoco]
+gym
+pyvirtualdisplay
+numpy
+scipy
+matplotlib
+ipykernel
+moviepy
